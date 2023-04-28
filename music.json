@@ -1,49 +1,49 @@
 [
     {
         "id": 1,
-        "title": "Yaktak Feat. Sobol",
+        "author": "Yaktak Feat. Sobol",
         "song": "Погляд",
         "image": "https://z2.fm/userdata/artist/b76cbb7d89801bc7b4b0d01bdffb2d57.jpg"
     },
     {
         "id": 2,
-        "title": "Yaktak Feat. Kola",
+        "author": "Yaktak Feat. Kola",
         "song": "Порічка",
         "image": "https://z2.fm/userdata/artist/f29b1bb55431cd667d7b2b7cd295100e.jpg"
     },
     {
         "id": 3,
-        "title": "Artison",
+        "author": "Artison",
         "song": "У Саду",
         "image": "https://z2.fm/userdata/artist/6965b98b95c0b17585410f3a19075b51.jpg"
     },
     {
         "id": 4,
-        "title": "Yaktak Feat. Dovi",
+        "author": "Yaktak Feat. Dovi",
         "song": "Чекає Вдома",
         "image": "https://z2.fm/userdata/artist/6f28fdea577a29ed0672c00c76ce3a6a.jpg"
     },
     {
         "id": 5,
-        "title": "Артем Пивоваров Feat. Nk",
+        "author": "Артем Пивоваров Feat. Nk",
         "song": "Там У Тополі",
         "image": "https://z2.fm/userdata/artist/ea78283ffe4f91af5eea60e7c3b34d94.jpg"
     },
     {
         "id": 6,
-        "title": "Антитіла",
+        "author": "Антитіла",
         "song": "Фортеця",
         "image": "https://z2.fm/userdata/artist/d277e16eb6cadb5a751c6e6a61950d0f.jpg"
     },
     {
         "id": 7,
-        "title": "Wellboy",
+        "author": "Wellboy",
         "song": "Додому",
         "image": "https://z2.fm/userdata/artist/343e91394c1af1be01f16d2f66fc65d0.jpg"
     },
     {
         "id": 8,
-        "title": "Skofka",
+        "author": "Skofka",
         "song": "Чути Гімн",
         "image": "https://z2.fm/userdata/artist/69a375bf8ee071f59a40426c0a19109e.jpg"
     }
